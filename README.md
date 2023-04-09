@@ -1,16 +1,18 @@
+![Git n GitHub](C:\Users\dio_d\Desktop\Programação\DIO\Git\desafio\imgs\git-and-github.png)
+
 # Repositório do Desafio de Git/GitHub da DIO
 
 ## Git
-É um software livre para o controle de versões distribuída, usado principalmente no desenvolvimento de software, mas pode ser utilizado para registrar o histórico de edições de qualquer tipo de arquivo.
+É um software livre para o **controle de versões distribuída**, usado principalmente no desenvolvimento de software, mas pode ser utilizado para registrar o histórico de edições de qualquer tipo de arquivo.
 
-Link: [Git Website Oficial](https://git-scm.com/)
+_Link:_ [Git Website Oficial](https://git-scm.com/)
 
 ## GitHub
-É uma plataforma de hospedagem de código-fonte e arquivos com controle de versão utilizando o Git, permitindo que qualquer usuário, principalmente programadores e emrpesas de TI, cadastrado na plataforma contribuam em projetos privados e/ou código aberto de qualquer lugar do mundo, além de divulgarem seus trabalhos, servindo como um portfólio.
+É uma **plataforma de hospedagem de código-fonte e arquivos com controle de versão utilizando o Git**, permitindo que qualquer usuário, principalmente programadores e empresas de TI, cadastrado na plataforma contribuam em projetos privados e/ou código aberto de qualquer lugar do mundo, além de divulgarem seus trabalhos, servindo como um portfólio.
 
-Link: [GitHub Website Oficial](https://github.com)
+_Link_: [GitHub Website Oficial](https://github.com)
 
-#### Comandos Git
+#### Alguns Comandos Git
 Comandos|Descricao
 -|-
 init | Criar um novo repositório
@@ -31,3 +33,4 @@ git commit -m 'mensagem'
 git remote add origin https://github.com/user/repositorio_remoto.git
 git push -u origin master
 ```
+
