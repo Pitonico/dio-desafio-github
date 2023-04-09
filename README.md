@@ -1,4 +1,4 @@
-![Git n GitHub](C:\Users\dio_d\Desktop\Programação\DIO\Git\desafio\imgs\git-and-github.png)
+![Git n GitHub](imgs/git-and-github.png "Git n GitHub")
 
 # Repositório do Desafio de Git/GitHub da DIO
 
